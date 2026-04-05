@@ -10,7 +10,7 @@ const app = express();
 app.use(cors({
   origin: [
     "http://localhost:3000",
-    "https://task-manager-client-liart-chi.vercel.app"
+    "https://task-manager-client-rho-nine.vercel.app"
   ],
   credentials: true
 }));
