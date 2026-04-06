@@ -6,7 +6,6 @@ import taskRoutes from "./modules/task/task.routes";
 
 const app = express();
 
-
 app.use(cors({
   origin: [
     "http://localhost:3000",
